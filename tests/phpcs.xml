@@ -8,6 +8,17 @@
     <arg name="extensions" value="php" />
 
     <rule ref="WordPress-Extra">
-        <!--exclude name="WordPress.CSRF.NonceVerification.NoNonceVerification" /-->
+        <!-- The $domain arg must be a single string literal, not "". Sniff not working (class constant). -->
+        <exclude name="WordPress.WP.I18n.NonSingularStringLiteralDomain" />
+        <!-- Class file names should be based on the class name with "class-" prepended. -->
+        <exclude name="WordPress.Files.FileName.InvalidClassFileName" />
+        <!-- When an array uses associative keys, each value should start on a new line. -->
+        <exclude name="WordPress.Arrays.ArrayDeclarationSpacing.AssociativeKeyFound" />
+        <!-- Blank line found after control structure -->
+        <exclude name="WordPress.WhiteSpace.ControlStructureSpacing.BlankLineAfterEnd" />
+        <!-- Expected 1 space after closing brace; newline found -->
+        <exclude name="Squiz.ControlStructures.ControlSignature.SpaceAfterCloseBrace" />
+        <!-- Inline control structures are not allowed -->
+        <exclude name="Generic.ControlStructures.InlineControlStructure.NotAllowed" />
     <rule/>
 </ruleset>
