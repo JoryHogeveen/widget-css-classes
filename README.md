@@ -6,7 +6,7 @@ Add custom classes and ids plus first, last, even, odd, and numbered classes to 
 [![WordPress Plugin WP tested version](https://img.shields.io/wordpress/v/widget-css-classes.svg?style=flat)](https://wordpress.org/plugins/widget-css-classes/)
 [![WordPress Plugin downloads](https://img.shields.io/wordpress/plugin/dt/widget-css-classes.svg?style=flat)](https://wordpress.org/plugins/widget-css-classes/)
 [![WordPress Plugin rating](https://img.shields.io/wordpress/plugin/r/widget-css-classes.svg?style=flat)](https://wordpress.org/plugins/widget-css-classes/)
-[![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg)](https://github.com/cleverness/widget-css-classes/blob/master/license.txt)
+[![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg)](https://github.com/JoryHogeveen/widget-css-classes/blob/master/license.txt)
 [![Travis](https://secure.travis-ci.org/cleverness/widget-css-classes.png?branch=master)](http://travis-ci.org/cleverness/widget-css-classes)
 [![Code Climate](https://codeclimate.com/github/cleverness/widget-css-classes/badges/gpa.svg)](https://codeclimate.com/github/cleverness/widget-css-classes)
 
@@ -49,4 +49,4 @@ _Please note that this plugin doesn't enable you to enter custom CSS. You'll nee
 
 ## More info and documentation
 
-[See our wiki!](https://github.com/cleverness/widget-css-classes/wiki)
+[See our wiki!](https://github.com/JoryHogeveen/widget-css-classes/wiki)

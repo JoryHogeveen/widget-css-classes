@@ -3,9 +3,9 @@
  * Plugin Name: Widget CSS Classes
  * Version: 1.5.4
  * Description: Add custom, first, last, even, odd, and numbered classes to your widgets.
- * Author: C.M. Kendrick
- * Author URI: http://cleverness.org
- * Plugin URI: http://cleverness.org/plugins/widget-css-classes
+ * Author: Jory Hogeveen
+ * Author URI: https://www.keraweb.nl
+ * Plugin URI: https://wordpress.org/plugins/widget-css-classes/
  * Text Domain: widget-css-classes
  */
 
