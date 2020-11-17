@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Widget CSS Classes
- * Version: 1.5.4
+ * Version: 1.5.4.1
  * Description: Add custom, first, last, even, odd, and numbered classes to your widgets.
  * Author: Jory Hogeveen
  * Author URI: https://www.keraweb.nl
