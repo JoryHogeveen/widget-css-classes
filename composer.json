@@ -1,11 +1,30 @@
 {
-	"name": "cleverness/widget-css-classes",
+	"name": "joryhogeveen/widget-css-classes",
 	"type": "wordpress-plugin",
 	"description": "WordPress Plugin to add CSS classes to Widgets",
 	"keywords": [],
-	"homepage": "https://github.com/cleverness/widget-css-classes",
+	"homepage": "https://github.com/joryhogeveen/widget-css-classes",
 	"license": "GPL-3.0+",
-	"authors": [],
+	"authors": [
+		{
+			"name": "Jory Hogeveen",
+			"email": "info@keraweb.nl",
+			"homepage": "https://www.keraweb.nl/",
+			"role": "Owner"
+		},
+		{
+			"name": "C.M. Kendrick",
+			"email": "cindy@cleverness.org",
+			"homepage": "http://cleverness.org",
+			"role": "Initial owner"
+		}
+	],
+    "funding": [
+        {
+            "type": "donation",
+            "url": "https://www.keraweb.nl/donate.php?for=widget-css-classes"
+        },
+    ],
 	"require": {
 		"composer/installers": "1.2.*",
 		"php": ">=5.2.4"
