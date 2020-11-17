@@ -94,6 +94,10 @@ Please file a [bug report on GitHub](https://github.com/JoryHogeveen/widget-css-
 
 == Changelog ==
 
+= 1.5.4.1 =
+* Tested with WP 5.5.
+* Update plugin owner.
+
 = 1.5.4 =
 * **Compatibility:** Fix for old single widgets (remove notice). [#37](https://github.com/cleverness/widget-css-classes/issues/37) (props @westonruter)
 * Tested with WP 5.2.
