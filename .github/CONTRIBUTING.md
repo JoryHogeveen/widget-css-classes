@@ -7,7 +7,7 @@ When contributing please ensure you follow the guidelines below so that we can k
 ## Getting Started
 
 * Submit a ticket for your issue, assuming one does not already exist.
-  * https://github.com/cleverness/widget-css-classes/issues
+  * https://github.com/JoryHogeveen/widget-css-classes/issues
   * Clearly describe the issue including steps to reproduce the bug.
   * Make sure you fill in the earliest version that you know has the issue as well as the version of WordPress you're using.
 
@@ -20,8 +20,8 @@ When contributing please ensure you follow the guidelines below so that we can k
   * When committing, reference your issue (if present) and include a note about the fix.
   * Ensure you stick to the [WordPress Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards)
   * This repository contains all files needed to properly configure your IDE with the correct coding standards and code style configuration.
-    * [PHP MD](https://github.com/cleverness/widget-css-classes/blob/master/tests/phpmd.xml)
-    * [PHP CS](https://github.com/cleverness/widget-css-classes/blob/master/tests/phpcs.xml)
+    * [PHP MD](https://github.com/JoryHogeveen/widget-css-classes/blob/master/tests/phpmd.xml)
+    * [PHP CS](https://github.com/JoryHogeveen/widget-css-classes/blob/master/tests/phpcs.xml)
 * If the changes are a new feature make sure you add PHP Unit tests or at least contribute in creating tests.
 * Push the changes to the branch you created and submit a pull request for the `dev` branch.
 
