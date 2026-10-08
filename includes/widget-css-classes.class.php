@@ -605,7 +605,7 @@ class WCSSC {
 				$params[0]['before_widget'],
 				'class',
 				$classes,
-				(boolean) WCSSC_Lib::get_settings( 'filter_unique' )
+				(bool) WCSSC_Lib::get_settings( 'filter_unique' )
 			);
 		}
 
